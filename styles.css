@@ -7,10 +7,12 @@ h1 {
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
-}
+  background: -webkit-linear-gradient(21deg, #FFE53B 24%, #FF2525 69%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 
-p {
+}
+  p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
@@ -25,7 +27,7 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
+  padding-top: 50px;
 }
 
 .container {
@@ -45,4 +47,6 @@ footer {
   display: block;
   margin: 3% auto 0;
   font-family: 'Indie FLower',cursive;
+  font-size: 3rem;
+  border-radius: 90%;
 }
