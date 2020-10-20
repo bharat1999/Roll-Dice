@@ -1,7 +1,7 @@
 body {
-  background-color: #393E46;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
-
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
@@ -10,10 +10,11 @@ h1 {
   background: -webkit-linear-gradient(21deg, #FFE53B 24%, #FF2525 69%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
 }
   p {
   font-size: 2rem;
+  font-weight: 900;
+  font-size: 3.2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
@@ -47,6 +48,9 @@ footer {
   display: block;
   margin: 3% auto 0;
   font-family: 'Indie FLower',cursive;
+
   font-size: 3rem;
   border-radius: 90%;
+  font-size: 2rem;
+
 }
