@@ -29,7 +29,7 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-  padding-top: 50px;
+  padding-top: 60px;
 }
 
 .container {
@@ -50,10 +50,8 @@ footer {
   margin: 3% auto 0;
   font-family: 'Indie FLower',cursive;
 
-  font-size: 3rem;
+  font-size: 4rem;
   border-radius: 90%;
-  font-size: 2rem;
-
-
+  font-size: 1.5rem;
 }
 
