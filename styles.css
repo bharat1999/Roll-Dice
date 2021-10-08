@@ -1,6 +1,5 @@
 body 
 {
-  background: rgb(131,58,180);
   background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
 h1 {
@@ -25,11 +24,12 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  font-size: 30px;
+  margin-top: 4%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-  padding-top: 60px;
+  padding-top: 50px;
 }
 
 .container {
@@ -47,11 +47,15 @@ footer {
 .roll
 {
   display: block;
-  margin: 3% auto 0;
+  margin: 30px auto 0;
   font-family: 'Indie FLower',cursive;
-
   font-size: 4rem;
-  border-radius: 90%;
+  border-radius: 47%;
   font-size: 1.5rem;
+  background-color: #9c060c;
+  color: white;
+  padding: 20px 40px;
+  font-size: 40px;
+  font-weight: 700;
 }
 
