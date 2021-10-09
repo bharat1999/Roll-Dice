@@ -1,11 +1,11 @@
 body 
 {
-  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  background: linear-gradient(90deg, rgb(153, 0, 255) 0%, rgb(124, 18, 18) 50%, rgb(255, 149, 0) 100%);
 }
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 5px 0 #243a57;
   font-size: 8rem;
   background: -webkit-linear-gradient(21deg, #FFE53B 24%, #FF2525 69%);
   -webkit-background-clip: text;
@@ -24,12 +24,12 @@ img {
 }
 
 footer {
-  font-size: 30px;
-  margin-top: 4%;
-  color: #EEEEEE;
+  font-size: 40px;
+  margin-top: 5%;
+  color: #f80606;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-  padding-top: 50px;
+  padding-top: 40px;
 }
 
 .container {
