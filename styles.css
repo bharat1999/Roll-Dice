@@ -1,22 +1,26 @@
-body 
-{
-  background: linear-gradient(90deg, rgb(153, 0, 255) 0%, rgb(124, 18, 18) 50%, rgb(255, 149, 0) 100%);
+body {
+  background: linear-gradient(
+    90deg,
+    rgb(153, 0, 255) 0%,
+    rgb(124, 18, 18) 50%,
+    rgb(255, 149, 0) 100%
+  );
 }
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   text-shadow: 5px 0 #243a57;
   font-size: 8rem;
-  background: -webkit-linear-gradient(21deg, #FFE53B 24%, #FF2525 69%);
+  background: -webkit-linear-gradient(21deg, #ffe53b 24%, purple 69%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-  p{
+p {
   font-size: 4rem;
   font-weight: 1200;
   font-size: 3.2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  color: yellow;
+  font-family: "Indie Flower", cursive;
 }
 
 img {
@@ -28,7 +32,7 @@ footer {
   margin-top: 5%;
   color: #f80606;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: "Indie Flower", cursive;
   padding-top: 40px;
 }
 
@@ -41,14 +45,12 @@ footer {
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
-.roll
-{
+.roll {
   display: block;
   margin: 30px auto 0;
-  font-family: 'Indie FLower',cursive;
+  font-family: "Indie FLower", cursive;
   font-size: 4rem;
   border-radius: 47%;
   font-size: 1.5rem;
@@ -58,4 +60,3 @@ footer {
   font-size: 40px;
   font-weight: 700;
 }
-
