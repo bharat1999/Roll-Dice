@@ -10,9 +10,9 @@ body {
 h1 {
   margin: 30px;
   font-family: "Lobster", cursive;
-  text-shadow: 5px 0 #243a57;
+  text-shadow: 5px 0 #23993d;
   font-size: 8rem;
-  background: -webkit-linear-gradient(21deg, #32a010 24%, rgb(140, 0, 0) 69%);
+  background: -webkit-linear-gradient(21deg, #801f1f 24%, rgb(39, 29, 75) 69%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -20,16 +20,16 @@ p {
   font-size: 4rem;
   font-weight: 1200;
   font-size: 3.2rem;
-  color: yellow;
+  color: rgb(39, 121, 146);
   font-family: "Indie Flower", cursive;
 }
 
 img {
-  width: 80%;
+  width: 70%;
 }
 
 footer {
-  font-size: 40px;
+  font-size: 42px;
   margin-top: 5%;
   color: #06d4f8;
   text-align: center;
@@ -55,9 +55,9 @@ footer {
   font-size: 4rem;
   border-radius: 47%;
   font-size: 1.5rem;
-  background-color: #3d766e;
-  color: rgb(10, 10, 10);
+  background-color: #0f991a;
+  color: rgb(146, 34, 34);
   padding: 20px 40px;
-  font-size: 40px;
-  font-weight: 700;
+  font-size: 42px;
+  font-weight: 750;
 }
