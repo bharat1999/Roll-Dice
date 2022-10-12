@@ -1,26 +1,26 @@
 body {
   background: linear-gradient(
     90deg,
-     darkgreen
+     rgb(209, 219, 209)
      (133, 245, 4) 0%,
-    #1123e3 50%,
+    #2e3cda 50%,
    white 100%
   );
 }
 h1 {
   margin: 30px;
-  font-family: "Lobster", cursive;
-  text-shadow: 5px 0 #243a57;
+  font-family: "Poppins", cursive;
+  text-shadow: 5px 0 #3c6192;
   font-size: 8rem;
-  background: -webkit-linear-gradient(21deg, #32a010 24%, rgb(140, 0, 0) 69%);
-  -webkit-background-clip: text;
+  background: -webkit-linear-gradient(21deg, #b4a5a5 24%, rgb(163, 69, 69) 69%);
+
   -webkit-text-fill-color: transparent;
 }
 p {
-  font-size: 4rem;
-  font-weight: 1200;
-  font-size: 3.2rem;
-  color: yellow;
+  font-size: 3.8rem;
+  font-weight: 1250;
+  font-size: 3.5rem;
+  color: rgb(197, 197, 82);
   font-family: "Indie Flower", cursive;
 }
 
@@ -33,7 +33,7 @@ footer {
   margin-top: 5%;
   color: #06d4f8;
   text-align: center;
-  font-family: "Indie Flower", cursive;
+  font-family: "Alkalami", cursive;
   padding-top: 40px;
 }
 
@@ -54,7 +54,7 @@ footer {
   font-family: "Indie FLower", cursive;
   font-size: 4rem;
   border-radius: 47%;
-  font-size: 1.5rem;
+  font-size: 1.9rem;
   background-color: #3d766e;
   color: rgb(10, 10, 10);
   padding: 20px 40px;
