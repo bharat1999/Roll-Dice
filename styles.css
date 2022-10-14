@@ -1,9 +1,10 @@
 body {
   background: linear-gradient(
     90deg,
-    rgb(133, 245, 4) 0%,
-    rgb(17, 174, 227) 50%,
-    rgb(201, 208, 0) 100%
+     darkgreen
+     (133, 245, 4) 0%,
+    #1123e3 50%,
+   white 100%
   );
 }
 h1 {
@@ -12,14 +13,14 @@ h1 {
   text-shadow: 5px 0 #243a57;
   font-size: 8rem;
   background: -webkit-linear-gradient(21deg, #32a010 24%, rgb(140, 0, 0) 69%);
-  -webkit-background-clip: text;
+
   -webkit-text-fill-color: transparent;
 }
 p {
   font-size: 4rem;
   font-weight: 1200;
-  font-size: 3.2rem;
-  color: yellow;
+  font-size: 4rem;
+  color: rgb(27, 207, 17);
   font-family: "Indie Flower", cursive;
 }
 
@@ -31,7 +32,7 @@ footer {
   font-size: 40px;
   margin-top: 5%;
   color: #06d4f8;
-  text-align: center;
+  text-align: left;
   font-family: "Indie Flower", cursive;
   padding-top: 40px;
 }
@@ -53,10 +54,10 @@ footer {
   font-family: "Indie FLower", cursive;
   font-size: 4rem;
   border-radius: 47%;
-  font-size: 1.5rem;
+  font-size: 5rem;
   background-color: #3d766e;
-  color: rgb(10, 10, 10);
-  padding: 20px 40px;
-  font-size: 40px;
-  font-weight: 700;
+  color: rgb(155, 3, 3);
+  padding: 30px 50px;
+  font-size: 60px;
+  font-weight: 900;
 }
