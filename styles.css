@@ -12,7 +12,7 @@ h1 {
   font-family: "Lobster", cursive;
   text-shadow: 5px 0 #243a57;
   font-size: 8rem;
-  background: -webkit-linear-gradient(21deg, #32a010 24%, rgb(140, 0, 0) 69%);
+  background: -webkit-linear-gradient(21deg, #32a010 24%, rgb(138, 0, 0) 69%);
 
   -webkit-text-fill-color: transparent;
 }
